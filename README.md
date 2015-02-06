@@ -1,2 +1,2 @@
 # Dictionary
-Defines words in a list to help with homework. 
+Defines lists of words instead of one-by-one to save time on homework. 
